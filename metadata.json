@@ -1,0 +1,6 @@
+{
+  "name": "IP Locator",
+  "description": "一键查询公网IP和地理位置以及运营商细节的网络分析工具，支持网络测速，并附带强大的交互式定制 ICMP 链路延迟探测诊断助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
